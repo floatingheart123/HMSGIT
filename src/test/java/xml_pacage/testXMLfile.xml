@@ -1,0 +1,31 @@
+<suite name="ABCDSelenium">
+
+	<test name="test">
+
+		<classes>
+
+	
+			<class name="project_saaho.alerttest">
+
+				<methods>
+				<include name="alert"/>
+				</methods>
+
+				</class>
+				
+				<class name="project_saaho.popup">
+
+				<methods>
+				<include name="feedback"/>
+				</methods>
+
+				</class>
+				
+			
+			
+	
+				
+		</classes>
+	
+	</test>
+</suite>

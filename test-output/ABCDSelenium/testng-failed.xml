@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ABCDSelenium]">
+  <test thread-count="5" name="test(failed)">
+    <classes>
+      <class name="project_saaho.popup">
+        <methods>
+          <include name="feedback"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- project_saaho.popup -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [ABCDSelenium] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24168" started-at="2019-08-05T04:59:41Z" finished-at="2019-08-05T05:00:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24168" started-at="2019-08-05T04:59:41Z" finished-at="2019-08-05T05:00:05Z">
+      <class name="ClassRoomAUG.Repository">
+        <test-method status="PASS" signature="OpenURL()[pri:0, instance:ClassRoomAUG.Repository@18be83e4]" name="OpenURL" is-config="true" duration-ms="20040" started-at="2019-08-05T04:59:41Z" finished-at="2019-08-05T05:00:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenURL -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:ClassRoomAUG.Repository@18be83e4]" name="Login" duration-ms="4063" started-at="2019-08-05T05:00:01Z" finished-at="2019-08-05T05:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:ClassRoomAUG.Repository@18be83e4]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-08-05T05:00:05Z" finished-at="2019-08-05T05:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ClassRoomAUG.Repository -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
